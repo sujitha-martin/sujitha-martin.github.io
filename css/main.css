@@ -48,3 +48,4 @@ table, th, td {
 td {
     vertical-align: top;
 }
+table tr.separator { height: 10px; }
