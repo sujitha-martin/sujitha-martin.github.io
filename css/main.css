@@ -26,6 +26,7 @@ h1 {
 h2 {
     margin-top: 0;
     color: orange;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
