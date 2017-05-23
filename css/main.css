@@ -52,3 +52,7 @@ td {
     vertical-align: top;
 }
 table tr.separator { height: 10px; }
+
+li.menu-item {
+   margin:0 0 5px 0;   
+}
